@@ -9,7 +9,9 @@
 **HealthBridge** is a modern, full-stack healthcare platform designed to bridge the gap between patients and medical providers. It features a real-time mobile experience for patients and a data-rich dashboard for doctors.
 
 ## 👨‍💻 Author
+
 M.A.Chalini Kaushalya
+
 ---
 
 ## 🏗️ The Ecosystem Architecture
